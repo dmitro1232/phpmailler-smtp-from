@@ -1,1 +1,1 @@
-# phpmailler-smtp-fm
+# phpmailler-smtp-form
